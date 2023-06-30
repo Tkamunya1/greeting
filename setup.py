@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='greeting',
+    name='greetings kamunya',
     version='1.0.0',
-    packages=['greeting'],
+    packages=['greetings kamunya'],
     description='A simple package for greetings',
     author='Titus K',
     author_email='tituskamunya@gmail.com',
