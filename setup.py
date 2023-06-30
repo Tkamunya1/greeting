@@ -6,6 +6,6 @@ setup(
     packages=['greeting'],
     description='A simple package for greetings',
     author='Titus K',
-    author_email='tituskamunya.com',
+    author_email='tituskamunya@gmail.com',
     url='https://github.com/Tkamunya1/greeting',
 )
